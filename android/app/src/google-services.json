@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "884669227372",
+    "firebase_url": "https://chatapp-9d8c0-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-9d8c0",
+    "storage_bucket": "chatapp-9d8c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884669227372:android:179f20f0087c1115eb5349",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884669227372-s6mr35gmtggbaho15r0sf110vjr9ft0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvIWH40plId2zCe80ttOTZreTjcvbOj00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884669227372-s6mr35gmtggbaho15r0sf110vjr9ft0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884669227372:android:053ba59e3c2cf2a4eb5349",
+        "android_client_info": {
+          "package_name": "com.example.videocallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884669227372-s6mr35gmtggbaho15r0sf110vjr9ft0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvIWH40plId2zCe80ttOTZreTjcvbOj00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884669227372-s6mr35gmtggbaho15r0sf110vjr9ft0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884669227372:android:4b5ed9d4c6eb1de5eb5349",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884669227372-s6mr35gmtggbaho15r0sf110vjr9ft0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvIWH40plId2zCe80ttOTZreTjcvbOj00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884669227372-s6mr35gmtggbaho15r0sf110vjr9ft0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
